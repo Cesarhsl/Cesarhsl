@@ -21,11 +21,10 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cesarhsl&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cesarhsl&theme=gotham&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarhsl&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Repos](https://img.shields.io/github/repos/Cesarhsl/Cesarhsl?color=blue&label=Repos&style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarhsl&theme=tokyonight)
+![Cesarhsl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarhsl&show_icons=true&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cesarhsl&icon=9&color=8)](https://visitcount.itsvg.in)
