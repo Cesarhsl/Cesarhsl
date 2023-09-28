@@ -9,9 +9,7 @@
 <div align="center">
   <h2>🌐 Social:</h2>
   <a href="https://discord.com/invite/419256797778411541"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
-  <br/>
   <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <br/>
   <a href="https://www.instagram.com/cesarhike/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
