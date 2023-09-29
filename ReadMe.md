@@ -31,9 +31,11 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarhsl&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarhsl&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cesarhsl&show_icons=true&theme=tokyonight" alt="Cesarhsl's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cesarhsl&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cesarhsl&theme=vue-dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
