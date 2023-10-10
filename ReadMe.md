@@ -3,7 +3,7 @@
 ## 📊 Sobre Mim:
 🐍 Estudando Data Science com foco em Python, Pandas e outras bibliotecas relacionadas.
 <br>💾 Experiência com MySQL, PostgreSQL e MongoDB.
-<br>🔍 Sempre à procura de novos desafios e oportunidades na área de análise de dados.
+<br>🔍 Sempre à procura de novos desafios e oportunidades nas áreas de desenvolvimento e análise de dados.
 <br>📫 Contate-me no email: [cesar.henrique1620@gmail.com](mailto:cesar.henrique1620@gmail.com)
 
 <div align="center">
