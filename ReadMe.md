@@ -25,7 +25,6 @@ Sou apaixonado por dados, tecnologia e aprendizado contínuo. Atualmente, estudo
 <div align="center">
   <a href="https://discord.com/invite/419256797778411541"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/cesar-henrique-sousa-lima-251873297"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/cesarhike/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
