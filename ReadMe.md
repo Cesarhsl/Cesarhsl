@@ -62,14 +62,6 @@ Sou apaixonado por dados, tecnologia e aprendizado contínuo. Atualmente, estudo
 
 [![Cesar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cesarhsl&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 🎯 Visitantes
-
-<div align="center">
-  <p><b>Contador de Visitantes:</b></p>
-  <img src="https://profile-counter.glitch.me/Cesarhsl/count.svg" alt="Contador de Visitantes" />
-</div>
 
 ---
 
