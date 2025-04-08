@@ -6,7 +6,7 @@
 
 # 👨‍💻 Cesar Henrique Sousa Lima
 
-## 📊 Cientista de Dados & Entusiasta de Tecnologia
+## 📊 Analista de Dados & Entusiasta de Tecnologia
 
 Sou apaixonado por dados, tecnologia e aprendizado contínuo. Atualmente, estudo **Data Science**, com foco em **Python**, **Pandas**, **PySpark**, e bancos de dados como **MySQL**, **PostgreSQL** e **MongoDB**.
 
