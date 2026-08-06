@@ -84,12 +84,6 @@ Atuo na convergência entre **tecnologia, dados e estratégia de negócio**, lid
 
 ---
 
-## 🚀 Atividade no GitHub
-
-[![Cesar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cesarhsl&bg_color=1a1b27&color=6e93b5&line=00ffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
