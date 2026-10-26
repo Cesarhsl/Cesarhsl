@@ -1,103 +1,92 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cesar%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Supervisor%20de%20Desenvolvimento%20%7C%20Engenharia%20de%20Dados%20%7C%20BI%20%7C%20Automa%C3%A7%C3%A3o&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cesar%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Tech%20Lead%20%7C%20Lideran%C3%A7a%20T%C3%A9cnica%20%7C%20Desenvolvimento%20de%20Software&descSize=16&descAlignY=51" alt="César Lima — Tech Lead" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Olá!+Seja+bem-vindo+ao+meu+GitHub!;💻+Supervisor+de+Desenvolvimento;📊+Engenharia+de+Dados+·+BI+·+Automação;🚀+Liderança+Técnica+e+Inovação)](https://git.io/typing-svg)
+**Liderança técnica · Gestão de equipes · Desenvolvimento de software · Integração de sistemas · Automação**
+
+[LinkedIn](https://www.linkedin.com/in/cesar-lima-251873297/) · [Portfólio](https://cesarportfolio.netlify.app) · [E-mail](mailto:cesar.henrique1620@gmail.com)
 
 </div>
-
----
 
 ## 👨‍💻 Sobre mim
 
-Atuo na convergência entre **tecnologia, dados e estratégia de negócio**, liderando iniciativas que transformam desafios operacionais em soluções escaláveis e orientadas por resultados.
+Sou **Tech Lead na Moto Clube Honda**, com atuação em liderança de equipes, desenvolvimento de software e integração de sistemas. Conecto necessidades do negócio às decisões técnicas e à gestão das entregas, em uma operação com **10 lojas** e soluções utilizadas por **mais de 600 usuários**.
 
-- 🏢 **Supervisor de Desenvolvimento** na **Moto Clube Honda**, liderando projetos, equipes e soluções tecnológicas que apoiam a transformação digital e a tomada de decisão baseada em dados
-- 📊 Experiência anterior como **Cientista de Dados** na **MaisCash Promotora**, com foco em inovação, automação e melhoria contínua de processos
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — UNIFAN (Centro Universitário Nobre)
-- 🔧 Construção de **aplicações, integrações, dashboards, pipelines de dados e soluções analíticas**
-- 🌎 Idiomas: **Inglês B2** · **Espanhol A2**
-- 📍 Salvador, Bahia — Brasil
+Meu trabalho combina desenvolvimento de pessoas, priorização de demandas, revisão de código e construção de aplicações que melhoram a operação. A experiência em ciência de dados, inteligência de mercado e BI complementa essa atuação com uma visão orientada por dados e resultados.
 
-> 💡 *Acredito que tecnologia é, acima de tudo, uma ferramenta para potencializar pessoas e resultados.*
+- 👥 Liderança de desenvolvedores e analistas, com foco em colaboração, qualidade e evolução técnica.
+- 💻 Desenvolvimento de aplicações, APIs e integrações para processos comerciais e financeiros.
+- 📊 Experiência anterior em inteligência de mercado na Moto Clube Honda e ciência de dados na MaisCash Promotora.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas pela UNIFAN**.
+- 🎤 Compartilhamento de conhecimento em palestras e encontros na **Estácio e na UNIFAN**.
+- 🌎 Inglês **B2** · Espanhol **A2**.
+- 📍 Salvador, Bahia — Brasil.
 
----
+## 🚀 Principais resultados e entregas
 
-## 🎯 Principais áreas de atuação
+| Entrega | Aplicação e impacto |
+| --- | --- |
+| **Sistema de comissionamento** | Substituição de planilhas por uma solução para **10 lojas**, com regras configuráveis, fechamento imutável e auditoria retroativa. |
+| **Gestão de metas comerciais** | Centralização de metas por gerente, supervisor e vendedor, com histórico desde **2021** e integração com o sistema de comissionamento. |
+| **CRM Bitrix24** | Estruturação de pipelines e automações para **mais de 600 usuários ativos**, acompanhando o processo comercial do primeiro contato ao faturamento. |
+| **Integração de pagamentos com a Woovi** | Eliminação de depósitos sem identificação e redução do risco de fraude na operação. |
+| **Tabela de preços unificada** | Substituição de um serviço externo por uma solução com base de dados centralizada. |
+| **BI e inteligência de mercado** | Dashboards e pipelines para apoiar decisões de diretoria, gestores e supervisores nas áreas de vendas, logística e consórcio. |
 
-<div align="center">
+## 🎯 Como atuo
 
-| 👥 Liderança | 📊 Dados & BI | ⚙️ Engenharia |
-|:---:|:---:|:---:|
-| Liderança de Equipes | Business Intelligence | Desenvolvimento de Sistemas |
-| Gestão de Projetos | Análise e Engenharia de Dados | Integrações e APIs REST |
-| Transformação Digital | Inteligência de Mercado | Automação de Processos |
+- **Liderança e gestão:** desenvolvimento do time, alinhamento com as áreas de negócio e priorização do backlog.
+- **Engenharia de software:** decisões técnicas, revisão de código, padronização e qualidade das entregas.
+- **Integração e automação:** conexão entre sistemas, redução de tarefas manuais e rastreabilidade dos processos.
+- **Dados e BI:** organização de indicadores, pipelines e análises para apoiar decisões.
 
-</div>
+## 🛠️ Tecnologias e ferramentas
 
----
+### Desenvolvimento de software
 
-## 🛠️ Tecnologias e Ferramentas
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-### 💻 Linguagens & Dados
-<div align="center">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+### Dados e persistência
 
-### 🗄️ Bancos de Dados
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 
-### 📈 BI & Analytics
-<div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dashboards-00FFFF.svg?style=for-the-badge&logo=chartdotjs&logoColor=black"/>
-</div>
+### Qualidade, infraestrutura e integrações
 
-### ⚙️ DevOps & Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs%20REST-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC6F6?style=for-the-badge)
+![Baserow](https://img.shields.io/badge/Baserow-5190EF?style=for-the-badge)
 
----
+<details>
+<summary>Outras tecnologias com as quais tenho experiência</summary>
 
-## 📈 Estatísticas do GitHub
+HTML5, CSS3, Vite, MySQL, MongoDB e Jenkins.
 
-<div align="center">
-  <img height="170" src="https://gh-stats.work/api?username=Cesarhsl&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://gh-stats.work/api/top-langs/?username=Cesarhsl&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Cesarhsl&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
+</details>
 
----
+## 🤝 Vamos conversar
 
-## 🌐 Onde me encontrar
+Tenho interesse em oportunidades como **Tech Lead**, com foco em liderança e gestão de equipes de desenvolvimento de software.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/cesar-henrique-sousa-lima-251873297"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:cesar.henrique1620@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://discord.com/invite/419256797778411541"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</div>
+Também estou aberto a trocar experiências sobre engenharia de software, integração de sistemas, automação e desenvolvimento de pessoas.
 
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesar-lima-251873297/)
+- 🌐 [Portfólio](https://cesarportfolio.netlify.app)
+- ✉️ [cesar.henrique1620@gmail.com](mailto:cesar.henrique1620@gmail.com)
 
-<div align="center">
-
-⭐ **Se curtir meus projetos, deixe uma estrela! Isso ajuda muito!**
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
